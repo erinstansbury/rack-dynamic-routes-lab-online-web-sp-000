@@ -11,7 +11,6 @@ class Application
 
       item = @@items.find{|i| i.name == item_name}      
       
-    elsif 
     
     end
   end
